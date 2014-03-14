@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name     = 'interact',
-    version  = '0.1',
+    version  = '0.2',
     url      = 'https://github.com/slezica/python-interact',
 
     author       = 'Santiago Lezica',
