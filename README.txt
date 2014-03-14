@@ -8,4 +8,4 @@ Simply import the module:
     import interact
 
 You'll find yourself in a live interactive python shell in the context
-sorrounding the import statement.
+surrounding the import statement.
